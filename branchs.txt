@@ -1,0 +1,28 @@
+Branches
+O master é o branch principal do GIT.
+
+O HEAD é um ponteiro especial que indica qual é o branch atual. Por padrão, o HEAD aponta para o branch principal, o master.
+
+Criando um novo branch
+
+git branch nome-do-novo-branch
+
+Trocando para um branch existente
+
+git checkout nome-do-branch-original
+
+Exemplo para entender:
+
+git branch calculadorajs
+
+Voltar para o branch principal (master)
+
+git branch master
+
+Apagando um branch
+
+git branch -d bug-123
+
+Criar um novo branch e trocar
+
+git checkout -b bug-456

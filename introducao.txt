@@ -1,0 +1,18 @@
+==================
+= Git & Github   =
+==================
+= Ihury Ferreira =
+==================
+
+# Objetivo do Curso
+
+1 - Sobre o Git & Github
+2 - Aprender o que é Controle de Versão
+3 - Como lidar com o git e seus comandos
+4 - Como subir código no Github
+
+# Requisitos Básicos
+
+  1. Windows, Linux ou OSX
+  2. Conhecimento básico de Terminal ou propmt de Comando
+  3. Ter a Vontade de Arender (Muito Importante) 

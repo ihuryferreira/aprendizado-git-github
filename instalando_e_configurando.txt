@@ -1,0 +1,33 @@
+Link do Site onde Tem as instruções de como instalar git no windows
+
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git?_gl=1*n3oh0o*_ga*NzM0NjUzMDE2LjE2ODY2MTExMzE.*_ga_37GXT4VGQK*MTY4NjYxMTEzMC4xLjEuMTY4NjYxMjQyNi4wLjAuMA..
+
+Para facilitar vou colocar as instruções aqui em baixo, mais e mesmo do link de Cima.
+
+Instalando no Windows
+Há também algumas maneiras de instalar o Git no Windows. A compilação mais oficial está disponível para download no site do Git. Basta ir ao http://git-scm.com/download/win e o download começará automaticamente. Note que este é um projeto chamado Git para Windows (também chamado msysGit), que é algo separado do Git; para mais informações sobre isso, vá para http://msysgit.github.io/.
+
+Para fazer uma instalação automatizada, você pode usar o pacote Git do Chocolatey. Note que o pacote Chocolatey é mantido pela comunidade.
+
+Outra forma fácil de obter Git instalada é através da instalação de GitHub para Windows. O instalador inclui uma versão de linha de comando do Git, bem como a GUI. Ele também funciona bem com o PowerShell, e configura o cache de credenciais sólidas e as devidas configurações CRLF. Vamos saber mais sobre isso um pouco mais tarde, por enquanto basta dizer que estas são coisas que você deveria ter. Você pode baixá-lo da página GitHub para Windows, em http://windows.github.com.
+
+Primeiro Abrir o terminal
+
+Segundo Digitar: git config --global user.name "Seu nome e Sobrenome"
+Depois o seu email: git config --global user.email "seuEmail@provedor.com"
+
+Terceiro Depois que Colocar seu nome e seu email
+Agora e para verificar se deu certo.
+Digite: git config --list
+
+Depois de Colocar nome e email
+
+Vamos para Token
+Link para Ver o tutorial:
+
+https://www.youtube.com/watch?v=pOP2S2PPkHE&_gl=1*iolr37*_ga*NzM0NjUzMDE2LjE2ODY2MTExMzE.*_ga_37GXT4VGQK*MTY4NjYxMTEzMC4xLjEuMTY4NjYxMjc2NS4wLjAuMA..
+
+Se acaso você já tenha o token e ele estiver expirado
+Veja esse tutorial a baixo de como modificar o seu token.
+
+https://www.youtube.com/watch?v=ewI7GHXjzqE

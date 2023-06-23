@@ -1,0 +1,29 @@
+Se acaso você já tenha uma conta no github.
+E só clicar neste Link para colocar seu login e senha.
+[Clique aqui](https://github.com/login)
+
+Se acaso você não tenha uma conta no github
+, faça o cadastro no Link a baixo.
+[Clique aqui](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+
+Conectando ao github pelo terminal.
+
+Primeiro: git clone https://github.com/ihuryferreira/exemplo-link-repositorio.git
+
+Depois: cd exemplo-link-repositorio
+Para entrar na pasta do repositorio github
+Depois: code .
+Para abrir vscode
+Depois de fazer as alterações, adicionar arquivos etc..
+Vamos adicionar os arquivos no git.
+git add Nome-do-arquivo ou git add . (Para adicionar tudo).
+Após isso vamos commitar esses arquivos com um nome descritivo.
+Ex.: "Adicionado arquivo index.html"
+Depois: git commit -m "Adicionamento do arquivo index.html e informações da página"
+Agora que temos todos os arquivos em nosso repositório local, pode
+mos enviar essas mudanças para o servidor remoto.
+Para isso usare
+mos o comando push.
+git push origin master
+Pronto! Agora é
+só aguardar até que seja aceito pela equipe responsável por esse projeto.
