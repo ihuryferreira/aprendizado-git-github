@@ -1,1 +1,1 @@
-# aprendizado-git-github
+Meu Projeto do Curso JavaScript Full Stack
